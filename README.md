@@ -239,7 +239,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/LinkedIn-Clone.git
+  gh repo clone sethuraman-computerscience-engineer/LinkedIn-clone
 ```
 
 change directory
