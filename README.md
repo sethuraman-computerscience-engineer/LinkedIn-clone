@@ -308,6 +308,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Sethu Raman-sethuraman1309@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/LinkedIn-Clone.git](https://github.com/SashenJayathilaka/LinkedIn-Clone.git)
+Project Link: [https://github.com/sethuraman-computerscience-engineer/LinkedIn-clone.git](https://github.com/sethuraman-computerscience-engineer/LinkedIn-clone.git)
